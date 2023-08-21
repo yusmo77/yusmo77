@@ -2,7 +2,7 @@
 - 👨🏿‍💻 I’m interested in Software Development
 - 🌱 I’m currently a Junior at Cal State San Bernardino
 - 🧠 I’m looking to collaborate on side Projects to add to my resume
-- 📫 Best way to reach me is my email: yusufmohamed707@gmail.com or by Discord imastan777
+- 📫 Best way to reach me is my email: yusufmohamed707@gmail.com or by Discord: imastan777
 
 
 <!---
