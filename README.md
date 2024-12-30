@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf Mohamed
 - 👨🏿‍💻 I’m interested in Software Development
-- 🌱 I’m currently a Senior at Cal State San Bernardino
+- 🌱 Cal State San Bernardino Grad
 - 🧠 I’m looking to collaborate on side projects to add to my resume
 - 📫 Best way to reach me is my email: yusufmohamed707@gmail.com or by Discord: imastan777
 
